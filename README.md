@@ -26,3 +26,7 @@ I'm Yash Singh, a passionate Full Stack Developer on a journey to turn my love f
 - 👯‍♂️ I'm open to collaborations and contributing to exciting projects. Feel free to reach out if you're looking for a passionate team member!
 
 Keep coding, keep innovating, and keep pushing the boundaries of what's possible! 🌟
+
+---
+
+### :fire: My Stats :
