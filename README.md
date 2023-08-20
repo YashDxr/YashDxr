@@ -19,7 +19,7 @@ I'm Yash Singh, a passionate Full Stack Developer on a journey to turn my love f
 - 📝 Sharing my coding journey and insights on my [Github](https://github.com/YashDxr).
 
 ## Reach Out
-- 📬 You can reach me at https://yash-portfolio.online
+- 📬 You can reach me at yashsingh705@outlook.com
 - 💬 Let's connect on [LinkedIn](https://www.linkedin.com/in/yash-singh-27a071213/) to exchange ideas and experiences.
 
 ## Let's Collaborate
